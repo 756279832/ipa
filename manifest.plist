@@ -11,24 +11,24 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.100.21.232/FortiClient.ipa</string>
+					<string>http://192.168.1.60/FortiClient.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://10.100.21.232/favicon.ico</string>
+					<string>http://192.168.1.60/favicon.ico</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://10.100.21.232/favicon.ico</string>
+					<string>http://192.168.1.60/favicon.ico</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
+				<key>CFBundleIdentifier</key>
 				<string>com.fortinet.forticlient</string>
 				<key>bundle-version</key>
 				<string>6.0</string>
